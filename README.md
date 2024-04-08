@@ -11,3 +11,4 @@ Usability and accessibility testing
 Graphic design and image editing tools
 Web performance and browser compatibility
 The front end is often perceived that it is technically easier compared to the complexities of back-end development, which requires a solid command over programming languages, Data Structures and Algorithms (DSA), and data management skills.
+we have created this project to develop skills and be better .
